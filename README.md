@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://app.circleci.com/pipelines/github/nagavenkateshgowru/udacityproj4)
+
 
 ## Project Overview
 
