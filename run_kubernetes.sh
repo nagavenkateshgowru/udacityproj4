@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath=nagavenkateshg/udacityproj4
+dockerpath=nagavenkateshg/udacityproj4:0.2
 
 # Step 2
 # Run the Docker Hub container with kubernetes
